@@ -1,4 +1,4 @@
 z6wXBNFaTtE
 https://www.youtube.com/watch?v=F5rSLiZN-70&t=4116s
 TQQPAU21ZUw
-pip install --upgrade youtube-dl
+

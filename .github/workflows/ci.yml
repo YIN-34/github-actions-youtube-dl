@@ -23,3 +23,8 @@ jobs:
           git add .
           git commit -m "download youtube video"
           git push
+- name: Install yt-dlp
+  run: python3 -m pip install --upgrade yt-dlp
+
+- name: Download video
+  run: yt-dlp z6wXBNFaTtE
